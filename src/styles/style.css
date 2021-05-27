@@ -1,0 +1,14 @@
+/* Override antd styles */
+
+.ant-table-wrapper {
+	clear: both;
+	max-width: 80%;
+	margin: 15px 10%;
+}
+
+/* own styles */
+.mainHeader {
+	padding-top: 30px;
+	font-family: monospace;
+	color: #696969;
+}
